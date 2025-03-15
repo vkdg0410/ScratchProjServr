@@ -3,5 +3,3 @@ Procedure_Date:2025.1.21________Procedure_Time:20:46:38
 System.Startup_Compleeted:True
 Server.Connection_OK:True
 --------------------------------Machine.BOOTUP_Log.End--------------------------------------------------------------------------------------
---------------------------------Machine.BOOTUP_Log.Start------------------------------------------------------------------------------------
-Procedure_Date:2025.3.14________Procedure_Time:20:44:32
